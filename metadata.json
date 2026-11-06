@@ -1,0 +1,6 @@
+{
+  "name": "Secret Group Chat",
+  "description": "Fast and simple password-protected group chat with real-time multi-user messaging and active members.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
